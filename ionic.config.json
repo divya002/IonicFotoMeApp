@@ -1,0 +1,7 @@
+{
+  "name": "FotoMe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
